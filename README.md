@@ -1,4 +1,4 @@
-- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C001E,50:8B0000,100:C41E3A&height=200&section=header&text=Hi%20there,%20I'm%20Xarhia%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/> 
+- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C001E,50:8B0000,100:C41E3A&height=200&section=header&text=Hi%20there,%20I'm%20Yumeko%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/> 
 <h1> </h1>About Me <br></br>
 Interested in: <!-- edit me --> web development & building things people actually use <br></br>
 Currently learning: PHP and React.js <br></br>
